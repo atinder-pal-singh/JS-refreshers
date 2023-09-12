@@ -1,0 +1,6 @@
+
+https://betterprogramming.pub/10-javascript-promis-challenges-before-you-start-an-interview-c9af8d4144ec
+
+https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/its-time-to-practice-with-promises
+
+https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/more-practice-with-promises
